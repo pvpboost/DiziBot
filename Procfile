@@ -1,1 +1,1 @@
-worker: python KingDizi Bot.py
+worker: python DiziBot.py
