@@ -13,7 +13,6 @@ import sqlite3
 
 
 client = commands.Bot(command_prefix = 'd!')
-os.chdir(r'D:\KingDizi')
 #client.event===========================================
 
 #Bot Start------------------------------------------------
